@@ -3,6 +3,6 @@ namespace HelloWorld
         {
         static void Main(string[] args)
             {
-            System.Console.WriteLine(“Hello World nha Tri Ngo”);
+            System.Console.WriteLine(“Co y de conflict”);
             }
         }
